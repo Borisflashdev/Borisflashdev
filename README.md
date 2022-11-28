@@ -5,4 +5,4 @@
 
 <h3>Languages and Tools I use 🎲</h3>
 
-[![My Skills](https://skills.thijs.gg/icons?i=c,css,git,html,js,mongodb,mysql,nodejs,vue)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=c,css,html,git,js,mongodb,mysql,nodejs,vue)](https://skills.thijs.gg)
